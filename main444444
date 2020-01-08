@@ -35,7 +35,7 @@ public:
 	}
 	Count(string broc_id, string numcount, int day, int mes, int year)
 	{
-	   NumFile=1; // Счетчик файлов
+	   NumFile=1; 
 	   this->broc_id=broc_id;
 	   this->numcount = numcount;
 	   this->day = day;
